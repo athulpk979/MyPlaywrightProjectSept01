@@ -1,0 +1,165 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "write-register-page-logic-and-take-screenshot;open-ecom-web-page-and-add-details",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "open ecom web page and add details",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 729933000
+            }
+          },
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 864702999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "When I navigate to page",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\write register page logic and take screenshot.ts:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3601250799
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 5,
+            "name": "enter first name and last name",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\write register page logic and take screenshot.ts:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 91113400
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "enter mail ID",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\write register page logic and take screenshot.ts:18"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 25898900
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "enter number",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\write register page logic and take screenshot.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 73294299
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "create your password",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\write register page logic and take screenshot.ts:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 21273199
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "confirm the password",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\write register page logic and take screenshot.ts:30"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 17740200
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "I have checked the check box",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\write register page logic and take screenshot.ts:34"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 66269000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "click continue",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\write register page logic and take screenshot.ts:38"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 921581700
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 484729599
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 547161099
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@lambdatest",
+            "line": 2
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "write-register-page-logic-and-take-screenshot",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "write register page logic and take screenshot",
+    "tags": [],
+    "uri": "PlaywrightAutomationCode\\FeatureFiles\\register page logic and take screenshot.feature"
+  }
+]

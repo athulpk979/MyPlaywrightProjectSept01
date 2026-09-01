@@ -1,0 +1,9 @@
+{
+    "URL":"https://ecommerce-playground.lambdatest.io/index.php?route=account/register",    
+    "FirstName":"Athul",
+    "lastname"  :"PK",
+    "Mail": "athul.p.k.123450@gmail.com",
+    "Telephone" : "9791135259",
+    "Password"  :"Athul123",
+    "PasswordConfirm"  :"Athul123"
+}

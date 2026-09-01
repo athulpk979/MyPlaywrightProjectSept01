@@ -1,0 +1,19 @@
+{
+    "tutorialspointURL" : "https://www.tutorialspoint.com/selenium/practice/login.php",
+    "RegisterURL"       : "https://www.tutorialspoint.com/selenium/practice/register.php",
+    "AfterRegisterURL"  : "https://www.tutorialspoint.com/selenium/practice/register.php#",
+
+    "User 1" : {
+        "First Name":"Athul",
+        "lastname"  :"PK",
+        "UserName"  :"Athul123",
+        "Password"  :"Athul97911"
+    },
+
+    "User 2" : {
+        "First Name":"Harish",
+        "lastname"  :"G",
+        "UserName"  :"Harish123",
+        "Password"  :"Harisha979"
+    }
+}
