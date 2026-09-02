@@ -12,3 +12,8 @@ GitNots:
 git log
 git branch
 git status
+
+belo command used in exciting project for commit
+git add (file name)
+git commit -m "custom message"
+git push -u origin (branch name)
