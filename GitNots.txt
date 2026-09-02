@@ -1,0 +1,14 @@
+GitNots:
+
+1. git init - one time
+2. git add . - to add
+3. git config --global user.name "AthulPK"
+4. git config --global user.email "athul437@gmail.com"
+5. git commit -m "Initial Commit - My Project"
+6. git branch -M main
+7. git remote add origin https://github.com/athulpk979/MyPlaywrightProjectSept01.git
+8. git push -u origin main
+
+git log
+git branch
+git status
